@@ -1,5 +1,7 @@
 # Reddit OSINT Tool
 
+![LOGO](./reddit_osint.jpg)
+
 ## Description
 
 This tool uses the Reddit API to collect and analyze the publicly available activity of a specific Reddit user. It allows users to gather data on a user's posts, comments, and general activity for OSINT (Open-Source Intelligence) purposes.
