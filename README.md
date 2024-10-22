@@ -1,6 +1,6 @@
 # Reddit OSINT Tool
 
-<img src="reddit_osint.jpg" width="300" height:"300">
+<img src="reddit_osint.jpg" width="300" height="300">
 
 ## Description
 
