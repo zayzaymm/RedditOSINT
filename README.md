@@ -14,7 +14,7 @@ This tool uses the Reddit API to collect and analyze the publicly available acti
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/reddit-user-osint-tool.git
+   git clone [https://github.com/zayzaymm/RedditOSINT
 
 ## Legal Disclaimer
 
