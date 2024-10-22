@@ -1,6 +1,6 @@
 # Reddit OSINT Tool
 
-![LOGO](./reddit_osint.jpg)
+<img src="reddit_osint.jpg" alt="Alt Text" width="300" height="300">
 
 ## Description
 
