@@ -21,7 +21,7 @@ reset = "\033[0m"
 reddit = praw.Reddit(
     client_id='R2M_pIpfNt2W20BeSFtI1g',
     client_secret='uaBeAQBfloSs1A2NOqxx1TpsIL5eVw',
-    user_agent='Mozilla/5.0 (iPhone; CPU iPhone OS 7_2_5; like Mac OS X) AppleWebKit/535.17 (KHTML, like Gecko)  Chrome/49.0.2503.271 Mobile Safari/534.9'
+    user_agent='Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/99.0.4844.47 Mobile/15E148 Safari/604.1'
   )
 print("")
 banner = f"""{blue}
