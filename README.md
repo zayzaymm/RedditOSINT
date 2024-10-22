@@ -17,6 +17,9 @@ This tool uses the Reddit API to collect and analyze the publicly available acti
 1. Clone the repository:
    ```bash
    git clone https://github.com/zayzaymm/RedditOSINT
+2. Instal requirements
+   ```bash
+   pip install -r requirements.txt
 
 ## Legal Disclaimer
 
